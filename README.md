@@ -15,6 +15,8 @@ Here i made a chatbot that helps people to search the tech questions easily , th
 
 ![p1](https://user-images.githubusercontent.com/55308841/153815803-8232026e-c8dc-49e7-85f6-53acd0c66e60.png)
 
+![p2](https://user-images.githubusercontent.com/55308841/153816382-0fa30ade-2933-4602-b726-8836256424af.png)
+
  
  ## Demo Image
 ![x1](https://user-images.githubusercontent.com/55308841/153813182-0043ad49-36f9-434e-a6d0-810af153c848.png)

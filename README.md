@@ -1,6 +1,8 @@
 # Description
 I made a chatbot for tech question ,where people can easily find the tech solution using this chat bot.
 
+# Demo Link
+ https://drive.google.com/file/d/1c5gJCQdVYcrqHNygyt7QbNkiCjbJW764/view?usp=sharing
  
 # Problem 
 Many student did not find the correct solution for a particular question while search on google. They take so much time to find the solution through google search.
@@ -9,7 +11,9 @@ Many student did not find the correct solution for a particular question while s
 Here i made a chatbot that helps people to search the tech questions easily , they did not spend too much time to search a particular question.
 
 # screen-Shot
-
+## Azure servic used
+ 
+ ## Demo Image
 ![x1](https://user-images.githubusercontent.com/55308841/153813182-0043ad49-36f9-434e-a6d0-810af153c848.png)
 
 # QnACodingChatBot Link

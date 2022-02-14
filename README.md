@@ -19,9 +19,11 @@ https://sites.google.com/view/codingchatbot/home?authuser=1&read_current=1
 
 # Primary Azure Technology
 
-Bot Services 
-Embed web 
-cognitive search
+1) Bot Services
+ 
+2)Embed web 
+
+3)cognitive search
 
 
 # Developer
